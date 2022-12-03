@@ -1,0 +1,15 @@
+C:\Users\169\Desktop\dod\zad 13\zad133\obj\Debug\net6.0\zad133.csproj.AssemblyReference.cache
+C:\Users\169\Desktop\dod\zad 13\zad133\obj\Debug\net6.0\zad133.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\169\Desktop\dod\zad 13\zad133\obj\Debug\net6.0\zad133.AssemblyInfoInputs.cache
+C:\Users\169\Desktop\dod\zad 13\zad133\obj\Debug\net6.0\zad133.AssemblyInfo.cs
+C:\Users\169\Desktop\dod\zad 13\zad133\obj\Debug\net6.0\zad133.csproj.CoreCompileInputs.cache
+C:\Users\169\Desktop\dod\zad 13\zad133\bin\Debug\net6.0\zad133.exe
+C:\Users\169\Desktop\dod\zad 13\zad133\bin\Debug\net6.0\zad133.deps.json
+C:\Users\169\Desktop\dod\zad 13\zad133\bin\Debug\net6.0\zad133.runtimeconfig.json
+C:\Users\169\Desktop\dod\zad 13\zad133\bin\Debug\net6.0\zad133.dll
+C:\Users\169\Desktop\dod\zad 13\zad133\bin\Debug\net6.0\zad133.pdb
+C:\Users\169\Desktop\dod\zad 13\zad133\obj\Debug\net6.0\zad133.dll
+C:\Users\169\Desktop\dod\zad 13\zad133\obj\Debug\net6.0\refint\zad133.dll
+C:\Users\169\Desktop\dod\zad 13\zad133\obj\Debug\net6.0\zad133.pdb
+C:\Users\169\Desktop\dod\zad 13\zad133\obj\Debug\net6.0\zad133.genruntimeconfig.cache
+C:\Users\169\Desktop\dod\zad 13\zad133\obj\Debug\net6.0\ref\zad133.dll
