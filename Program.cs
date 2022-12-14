@@ -1,13 +1,19 @@
-﻿//Задача 15: Напишите программу, которая принимает на вход цифру,
-//обозначающую день недели, и проверяет, является ли этот день выходным.
-//6 -> да
-//7 -> да
-//1 -> нет
-
-Console.WriteLine("Введите цифру обозначающую день недели: ");
-int number = Convert.ToInt32(Console.ReadLine());
-if(number <=5) Console.WriteLine("Рабочий день: ");
-if(number > 5 && number <=7) Console.WriteLine("Выходной день: ");
-
-
-
+﻿//Задача 29: Напишите программу, которая задаёт массив из 8 элементов
+	// и выводит их на экран.
+	//1, 2, 5, 7, 19 -> [1, 2, 5, 7, 19]
+	//6, 1, 33 -> [6, 1, 33]
+// array[i] = new Random().Next Double();
+	
+//Next(0, array.Length)
+//new Random().
+int[] GetArray()
+{
+    int[] array = new int[8];
+    for (int i = 0; i < array.Length; i++)
+    {
+        array[i] = new Random().Next(0, array.Length);
+    }
+    return array;
+}
+var str = string.Join(" ", GetArray());
+Console.WriteLine(str);
