@@ -1,0 +1,15 @@
+C:\Users\169\Desktop\dod\zad50\bin\Debug\net6.0\zad50.exe
+C:\Users\169\Desktop\dod\zad50\bin\Debug\net6.0\zad50.deps.json
+C:\Users\169\Desktop\dod\zad50\bin\Debug\net6.0\zad50.runtimeconfig.json
+C:\Users\169\Desktop\dod\zad50\bin\Debug\net6.0\zad50.dll
+C:\Users\169\Desktop\dod\zad50\bin\Debug\net6.0\zad50.pdb
+C:\Users\169\Desktop\dod\zad50\obj\Debug\net6.0\zad50.csproj.AssemblyReference.cache
+C:\Users\169\Desktop\dod\zad50\obj\Debug\net6.0\zad50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\169\Desktop\dod\zad50\obj\Debug\net6.0\zad50.AssemblyInfoInputs.cache
+C:\Users\169\Desktop\dod\zad50\obj\Debug\net6.0\zad50.AssemblyInfo.cs
+C:\Users\169\Desktop\dod\zad50\obj\Debug\net6.0\zad50.csproj.CoreCompileInputs.cache
+C:\Users\169\Desktop\dod\zad50\obj\Debug\net6.0\zad50.dll
+C:\Users\169\Desktop\dod\zad50\obj\Debug\net6.0\refint\zad50.dll
+C:\Users\169\Desktop\dod\zad50\obj\Debug\net6.0\zad50.pdb
+C:\Users\169\Desktop\dod\zad50\obj\Debug\net6.0\zad50.genruntimeconfig.cache
+C:\Users\169\Desktop\dod\zad50\obj\Debug\net6.0\ref\zad50.dll
